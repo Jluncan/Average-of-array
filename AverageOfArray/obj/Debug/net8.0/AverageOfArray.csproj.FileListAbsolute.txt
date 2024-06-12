@@ -1,0 +1,15 @@
+C:\repos\AverageOfArray\AverageOfArray\bin\Debug\net8.0\AverageOfArray.exe
+C:\repos\AverageOfArray\AverageOfArray\bin\Debug\net8.0\AverageOfArray.deps.json
+C:\repos\AverageOfArray\AverageOfArray\bin\Debug\net8.0\AverageOfArray.runtimeconfig.json
+C:\repos\AverageOfArray\AverageOfArray\bin\Debug\net8.0\AverageOfArray.dll
+C:\repos\AverageOfArray\AverageOfArray\bin\Debug\net8.0\AverageOfArray.pdb
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.AssemblyInfoInputs.cache
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.AssemblyInfo.cs
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.csproj.CoreCompileInputs.cache
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.sourcelink.json
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.dll
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\refint\AverageOfArray.dll
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.pdb
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\AverageOfArray.genruntimeconfig.cache
+C:\repos\AverageOfArray\AverageOfArray\obj\Debug\net8.0\ref\AverageOfArray.dll
